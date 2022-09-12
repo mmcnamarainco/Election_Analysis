@@ -23,4 +23,3 @@ with open(file_to_load) as election_data:
     print(headers)
 
         # Print each row in the CSV file.
-
