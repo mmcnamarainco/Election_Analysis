@@ -1,7 +1,6 @@
-# Import the datetime class from the datetime module.
-import datetime as dt
-# Use the now() attribute on the datetime class to get the present time.
-now = dt.datetime.now()     
-
-# Print the present time.
-print("The time right now is", now)
+my_string = input("Enter string: ")
+x = 0
+while x < len(my_string):
+    print(my_string[x])
+    x = x + 1
+    
