@@ -1,5 +1,5 @@
 # Election_Analysis
-
+---
 ## Project Overview 
 
 At the request of the Colorado Board of Elections, we have completed an election audit 
@@ -10,12 +10,14 @@ of the November 2018 Colorado First District congressional election.
 3. Calculate the total number of votes each candidate received. 
 4. Calculate the percentage of votes each candidate won. 
 5. Determine the winner of the election based on popular vote.
-
+---
 ## Resources 
   - Data Source: election_results.csv 
   - Software: Python 3.7.14, Visual Studio Code 1.71.2
+---
+## Summary 
 
-## Summary The analysis of the election shows that: 
+The analysis of the election shows that: 
   - There were 306,055 votes cast in the election. 
 
   - The candidates were:
@@ -30,6 +32,7 @@ of the November 2018 Colorado First District congressional election.
     
   - The winner of the election was:
     - Diane DeGette, who received 73.8% of the vote and 272,892 votes.
+
 ---
 ## Challenge Overview
 
@@ -41,6 +44,7 @@ deliniated text file.
 The data was processed to find the total vote counts and percentage of the 
 vote for each candidate. Additionally, we were asked to represent the largest 
 voting county in the district. 
+
 ---
 ##Election-Audit Summary: 
 
@@ -51,4 +55,13 @@ auditing for your elections office.
 
 With our not very proprietary but very flexible Python-based analysis we can
 easily pull the information you want to see from very large datasets like vote
-records. We are able to 
+records. 
+
+With access to the full vote record of each ballot, we are able to 
+provide analysis on undervotes, or instances where voters chose to vote in one 
+race but not another. We would also be able to see unusual voting patterns, such 
+as large blocks of votes for the same candidate being dumped into the data at the 
+same time. 
+
+Psyber PSamurais is your one-stop shop for both creating doubt, and putting those 
+doubts at ease in our modern election cycle!
