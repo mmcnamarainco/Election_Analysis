@@ -28,7 +28,7 @@ The analysis of the election shows that:
 
   - The candidate results were:
     - Diana DeGette received 73.8% of the vote and 272,892 votes. 
-    - Raymo Anthony Doane received 3.1% of the vote and 11,606 votes.
+    - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
     - Candidate 3 received 23.0% of the vote and 85,213 of votes. 
     
   - The winner of the election was:
@@ -47,7 +47,7 @@ vote for each candidate. Additionally, we were asked to represent the largest
 voting county in the district. 
 
 ---
-##Election-Audit Summary: 
+## Election-Audit Summary: 
 
 With our elections coming under the most intense scrutiny in history, it is 
 more important than ever that elections officials provide as much transpeancy
