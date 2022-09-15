@@ -1,6 +1,6 @@
+from ast import Import
 import csv
 import os
-import datetime
 
 # Add a variable to load a file from a path.
 file_to_load = os.path.join("Resources", "election_results.csv")
