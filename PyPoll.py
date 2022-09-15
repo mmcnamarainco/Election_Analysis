@@ -54,7 +54,8 @@ with open(file_to_load) as election_data:
             # Add a vote to that candidate's count
             candidate_votes[candidate_name] += 1
 
-    candidate_options.sort()
+<<<<<<< HEAD
+
 with open(file_to_save, "w") as txt_file:
 
     election_results = (
@@ -106,3 +107,6 @@ with open(file_to_save, "w") as txt_file:
 
     # Save the winning candidate's results to the text file.
     txt_file.write(winning_candidate_summary)
+=======
+        # Print each row in the CSV file.
+>>>>>>> 00f91fbd589b0d1b31c7abf79abfcdc8ee0cb8d2
