@@ -40,7 +40,7 @@ The analysis of the election shows that:
 In this challenge we faced the task of using Python to import text data and 
 perform some simple analysis on that data. Election data from the 2018 General 
 Election for Colorado's 1st Congressional District was provided in a comma-
-deliniated text file.
+delineated text file.
 
 The data was processed to find the total vote counts and percentage of the 
 vote for each candidate. Additionally, we were asked to represent the largest 
@@ -50,7 +50,7 @@ voting county in the district.
 ## Election-Audit Summary: 
 
 With our elections coming under the most intense scrutiny in history, it is 
-more important than ever that elections officials provide as much transpeancy
+more important than ever that elections officials provide as much transparency
 as possible. To that end, PSyber PSamurais proposes to provide full-service  
 auditing for your elections office.
 
